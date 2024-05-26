@@ -1,5 +1,5 @@
 ## To-Do List
-A simple and intuitive To-Do List application built with React.js, HTML, and CSS.
+To-Do List application built with React.js, HTML, and CSS.
 
 ## Screenshots
 ![To do list page](https://github.com/dgmnkk/React-ToDoList/assets/125593353/6e1a3f47-3546-4a68-b01b-5a389dade5f7)
